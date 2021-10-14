@@ -8,6 +8,5 @@ The user please cite the following papers:
 1. You, T., Waisman, H., & Zhu, Q. Z. (2020). Brittle-ductile failure transition in geomaterials
 modeled by a modified phase-field method with a varying damage-driving energy coefficient.
 International Journal of Plasticity, 136, 102836. https://doi.org/10.1016/j.ijplas.2020.102836
-2.You, T., Zhu, Q. Z., Waisman, H., & Shao, J. F. A micromechanics-based phase-field damage model
-for geomaterials with frictional sliding on microcracks: A novel degradation function of plastic free
-energy. Computer Methods in Applied Mechanics and Engineering. (To be updated)
+2.You, T., Waisman, H., Chen, W. Z., Shao, J. F. & Zhu Q. Z. (2021) A novel micromechanics-enhanced phase-field model for frictional damage and
+fracture of quasi-brittle geomaterials. Computer Methods in Applied Mechanics and Engineering. 385, 114060. https://doi.org/10.1016/j.cma.2021.114060
